@@ -1,5 +1,3 @@
-### Hi there 👋
-
 - 🔭 I’m currently working on enhancing my skills and expertise as a web developer, while also delving into the intricacies of database programming and exploring the world of DevOps engineering. My goal is to create seamless and efficient digital experiences through the integration of these disciplines.
 
 - 🌱 I’m currently learning about the latest advancements in web development frameworks and tools, such as React and Node.js.
