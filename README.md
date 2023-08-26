@@ -10,7 +10,7 @@
   <a href="https://www.instagram.com/zola__01/?next=%2F"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://steamcommunity.com/id/Wadihuk1234/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://dcbadge.vercel.app/api/shield/411951484675293185"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1OXqlRElGLl_veC-Vq1MZEbS5Sr6Myl5D/view?usp=drive_link"><img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/1OXqlRElGLl_veC-Vq1MZEbS5Sr6Myl5D/view?usp=drive_link"><img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <hr>
 [![Lazar's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitLN01)](https://github.com/GitLN01/github-readme-stats)
