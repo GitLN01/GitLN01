@@ -13,6 +13,6 @@
   <a href="https://drive.google.com/file/d/1OXqlRElGLl_veC-Vq1MZEbS5Sr6Myl5D/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <hr>
-[![Lazar's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitLN01)](https://github.com/GitLN01/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitLN01&theme=gotham&show_icons=true)
 
 
