@@ -15,7 +15,7 @@
 </p>
 <hr>
 <p align="center">
-  <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/username=GitLN01&theme=gotham&show_icons=true"/>
+  <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitLN01&layout=dark&langs_count=10&include_all_commits=true&count_private=true&title_color=0055ff&icon_color=ff054c&text_color=00ff44&bg_color=0,000020,220033&border_color=0000ff" alt="GitHub Stats" />
   <img height="250px" src="https://github-readme-stats.vercel.app/api?username=GitLN01&theme=gotham&show_icons=true">
   <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=GitLN01&include_all_commits=true&count_private=true&background=000020&border=0000ff&stroke=aa00ff&ring=0000ff&fire=ff054c&currStreakNum=00ff44&sideNums=00ff44&currStreakLabel=ff054c&sideLabels=ff054c&dates=0ffff0" alt="GitHub Stats" />
 </p>
