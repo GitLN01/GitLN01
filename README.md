@@ -1,5 +1,5 @@
 <h1>
-<img alt="Wave image" src="https://user-images.githubusercontent.com/68912857/218808235-50f91cfa-5ec0-43c3-89f7-abb8d4258621.gif" width="40" height="40"/> Hello!
+  <img alt="Wave image" src="https://user-images.githubusercontent.com/68912857/218808235-50f91cfa-5ec0-43c3-89f7-abb8d4258621.gif" width="35" height="35"/> Hi!
 </h1>
 
 - 🔭 I’m currently working on enhancing my skills and expertise as a web developer, database programmer and DevOps engineer.
@@ -18,7 +18,7 @@
 </p>
 <hr>
 <h1>
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="40" height="40"> Stats:
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="35" height="35"> Stats:
 </h1>
 <p align="center">
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitLN01&layout=compact&langs_count=10&include_all_commits=true&count_private=true&title_color=29a082&icon_color=599cab&text_color=99d1ce&bg_color=0c1014&border_color=ffffff" alt="GitHub Stats" />
