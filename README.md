@@ -13,6 +13,8 @@
   <a href="https://drive.google.com/file/d/1OXqlRElGLl_veC-Vq1MZEbS5Sr6Myl5D/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <hr>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitLN01&theme=gotham&show_icons=true)
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitLN01&layout=compact&langs_count=10&include_all_commits=true&count_private=true&title_color=0055ff&icon_color=ff054c&text_color=00ff44&bg_color=0,000020,220033&border_color=0000ff" alt="GitHub Stats" />
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=GitLN01&&show_icons=true&include_all_commits=true&count_private=true&title_color=0055ff&icon_color=ff054c&text_color=00ff44&bg_color=0,220033,000020&border_color=0000ff">
+<img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=GitLN01&include_all_commits=true&count_private=true&background=000020&border=0000ff&stroke=aa00ff&ring=0000ff&fire=ff054c&currStreakNum=00ff44&sideNums=00ff44&currStreakLabel=ff054c&sideLabels=ff054c&dates=0ffff0" alt="GitHub Stats" />
 
 
