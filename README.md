@@ -3,7 +3,7 @@
 </h1>
 
 - 🔭 I’m currently working on enhancing my skills and expertise as a web developer, database programmer and DevOps engineer.
-- 🌱 I’m currently learning about the latest advancements in web development frameworks and tools, such as React and Node.js.
+- 🌱 I’m currently learning about the latest advancements in web development frameworks and tools, such as React.js and Node.js.
 - 👯 I’m looking to collaborate with like-minded professionals to create solutions that could be put into action for various challenges and opportunities in digital realm.
 - ⚡ My interests: Design and User Experience, Technology, Problem Solving, Scientific Curiosity, Training, Gaming, etc.
 - 📫 Where you can find me:
@@ -20,7 +20,7 @@
 <h1>
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="35" height="35"> Stats:
 </h1>
-<p align="center" padding="30px">
+<p align="center">
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitLN01&layout=compact&langs_count=10&include_all_commits=true&count_private=true&title_color=29a082&icon_color=599cab&text_color=99d1ce&bg_color=0c1014&border_color=ffffff" alt="GitHub Stats" />
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=GitLN01&theme=gotham&show_icons=true">
   <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=GitLN01&include_all_commits=true&count_private=true&background=0c1014&border=ffffff&stroke=ffffff&ring=268f77&fire=red&currStreakNum=99d1ce&sideNums=99d1ce&currStreakLabel=99d1ce&sideLabels=99d1ce&dates=0ffff0" alt="GitHub Stats" />
