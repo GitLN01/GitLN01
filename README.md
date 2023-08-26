@@ -17,7 +17,7 @@
 <p align="center">
   <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitLN01&layout=compact&langs_count=10&include_all_commits=true&count_private=true&title_color=29a082&icon_color=599cab&text_color=99d1ce&bg_color=0c1014&border_color=ffffff" alt="GitHub Stats" />
   <img height="250px" src="https://github-readme-stats.vercel.app/api?username=GitLN01&theme=gotham&show_icons=true">
-  <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=GitLN01&include_all_commits=true&count_private=true&background=0c1014&border=ffffff&stroke=ffffff&ring=0000ff&fire=ff054c&currStreakNum=00ff44&sideNums=00ff44&currStreakLabel=ff054c&sideLabels=ff054c&dates=0ffff0" alt="GitHub Stats" />
+  <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=GitLN01&include_all_commits=true&count_private=true&background=0c1014&border=ffffff&stroke=ffffff&ring=268f77&fire=122f2b&currStreakNum=99d1ce&sideNums=99d1ce&currStreakLabel=99d1ce&sideLabels=99d1ce&dates=0ffff0" alt="GitHub Stats" />
 </p>
 
 
