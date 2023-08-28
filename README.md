@@ -20,8 +20,8 @@
 <h1>
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="35" height="35"> Stats:
 </h1>
-<div>
-  <img height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GitLN01&layout=compact&langs_count=10&include_all_commits=true&count_private=true&title_color=29a082&icon_color=599cab&text_color=99d1ce&bg_color=0c1014&border_color=ffffff" alt="GitHub Stats" />
+<p align="center">
+  <img height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GitLN01&layout=compact&langs_count=10&include_all_commits=true&count_private=true&title_color=29a082&icon_color=599cab&text_color=99d1ce&bg_color=0c1014&border_color=ffffff" />
   <img height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GitLN01&theme=gotham&show_icons=true">
-  <img align="center" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=GitLN01&include_all_commits=true&count_private=true&background=0c1014&border=ffffff&stroke=ffffff&ring=268f77&fire=red&currStreakNum=99d1ce&sideNums=99d1ce&currStreakLabel=99d1ce&sideLabels=99d1ce&dates=0ffff0" alt="GitHub Stats" />
-</div>
+  <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=GitLN01&include_all_commits=true&count_private=true&background=0c1014&border=ffffff&stroke=ffffff&ring=268f77&fire=red&currStreakNum=99d1ce&sideNums=99d1ce&currStreakLabel=99d1ce&sideLabels=99d1ce&dates=0ffff0" />
+</p>
