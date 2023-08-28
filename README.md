@@ -15,13 +15,13 @@
   <a href="https://steamcommunity.com/id/Wadihuk1234/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://dcbadge.vercel.app/api/shield/411951484675293185" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://drive.google.com/file/d/1OXqlRElGLl_veC-Vq1MZEbS5Sr6Myl5D/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+</p><br>
 <hr>
 <h1>
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="35" height="35"> Stats:
 </h1>
 <div align="center">
-  <img height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GitLN01&layout=compact&langs_count=10&include_all_commits=true&count_private=true&title_color=29a082&icon_color=599cab&text_color=99d1ce&bg_color=0c1014&border_color=ffffff" alt="GitHub Stats" />
-  <img height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GitLN01&theme=gotham&show_icons=true">
+  <img height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GitLN01&layout=compact&langs_count=10&include_all_commits=true&count_private=true&title_color=29a082&icon_color=599cab&text_color=99d1ce&bg_color=0c1014&border_color=ffffff" alt="GitHub Stats" />
+  <img height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GitLN01&theme=gotham&show_icons=true">
   <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=GitLN01&include_all_commits=true&count_private=true&background=0c1014&border=ffffff&stroke=ffffff&ring=268f77&fire=red&currStreakNum=99d1ce&sideNums=99d1ce&currStreakLabel=99d1ce&sideLabels=99d1ce&dates=0ffff0" alt="GitHub Stats" />
 </div>
