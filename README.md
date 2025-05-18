@@ -2,10 +2,11 @@
   <img alt="Wave image" src="https://user-images.githubusercontent.com/68912857/218808235-50f91cfa-5ec0-43c3-89f7-abb8d4258621.gif" width="35" height="35"/> Hello!
 </h1>
 
-- 🌱 I’m currently learning about the latest advancements in web development frameworks and tools, such as React.js and Node.js, and also a little bit of .NET.
-- 👯 I’m looking to collaborate with like-minded professionals to create solutions that could be put into action for various challenges and opportunities in digital realm.
-- ⚡ My interests: Design and User Experience, Technology, Problem Solving, Scientific Curiosity, Training, Gaming, etc.
-- 📫 Where you can find me:
+- 👋 Hi there!
+- 🌱 Currently diving deep into DevOps practices — automating infrastructure, building CI/CD pipelines, and improving system reliability.
+- 🤝 I’m eager to collaborate with fellow DevOps enthusiasts and developers to create efficient, scalable, and maintainable solutions.
+- ⚡ Interests: Infrastructure Automation, Continuous Integration & Delivery, Monitoring & Alerting, Cloud Technologies, Problem Solving, and Learning new tools.
+- 📫 Feel free to reach out anytime!
 <p align="center">
   <a href="https://github.com/GitLN01" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/lazar-nikitovic/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
