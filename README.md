@@ -2,8 +2,7 @@
   <img alt="Wave image" src="https://user-images.githubusercontent.com/68912857/218808235-50f91cfa-5ec0-43c3-89f7-abb8d4258621.gif" width="35" height="35"/> Hello!
 </h1>
 
-- 👋 Hi there!
-- 🌱 Currently diving deep into DevOps practices — automating infrastructure, building CI/CD pipelines, and improving system reliability.
+- ♾️ Currently diving deep into DevOps practices — automating infrastructure, building CI/CD pipelines, and improving system reliability.
 - 🤝 I’m eager to collaborate with fellow DevOps enthusiasts and developers to create efficient, scalable, and maintainable solutions.
 - ⚡ Interests: Infrastructure Automation, Continuous Integration & Delivery, Monitoring & Alerting, Cloud Technologies, Problem Solving, and Learning new tools.
 - 📫 Feel free to reach out anytime!
