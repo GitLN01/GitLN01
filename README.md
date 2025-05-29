@@ -2,10 +2,14 @@
   <img alt="Wave image" src="https://user-images.githubusercontent.com/68912857/218808235-50f91cfa-5ec0-43c3-89f7-abb8d4258621.gif" width="35" height="35"/> Hello!
 </h1>
 
-- ♾️ Currently diving deep into DevOps practices — automating infrastructure, building CI/CD pipelines, and improving system reliability.
-- 🤝 I’m eager to collaborate with fellow DevOps enthusiasts and developers to create efficient, scalable, and maintainable solutions.
-- ⚡ Interests: Infrastructure Automation, Continuous Integration & Delivery, Monitoring & Alerting, Cloud Technologies, Problem Solving, and Learning new tools.
-- 📫 Feel free to reach out anytime!
+♾️ Currently diving deep into DevOps practices — automating infrastructure, building CI/CD pipelines, and improving system reliability.
+🤝 I’m eager to collaborate with fellow DevOps enthusiasts and developers to create efficient, scalable, and maintainable solutions.
+🛡️ Recently expanding my knowledge in the field of **Cybersecurity**, with a focus on:
+- Secure DevOps (DevSecOps)
+- Threat Modeling & Vulnerability Assessment
+- Cloud Security (Azure & AWS)
+- Secrets Management & Infrastructure Hardening
+📫 Feel free to reach out anytime!
 <p align="center">
   <a href="https://github.com/GitLN01" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/lazar-nikitovic/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -24,3 +28,17 @@
   <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GitLN01&theme=gotham&show_icons=true">
   <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=GitLN01&include_all_commits=true&count_private=true&background=0c1014&border=ffffff&stroke=ffffff&ring=268f77&fire=red&currStreakNum=99d1ce&sideNums=99d1ce&currStreakLabel=99d1ce&sideLabels=99d1ce&dates=0ffff0" />
 </p>
+
+---
+
+## 🏆 Highlights:
+- 💻 Proficient in **C#**, **.NET Framework**, **C/C++**, **Java**, **Python**, **JavaScript**, **PHP**, and modern frontend frameworks like **React.js** and **Angular.js**
+- 🌐 Skilled in **HTML**, **CSS**, **Bootstrap**, and **WordPress** for responsive and dynamic web development
+- 🗄️ Experience with relational and NoSQL databases: **MySQL**, **MSSQL**, **PostgreSQL**, and **MongoDB**
+- ⚙️ Strong foundation in **DevOps** and **System Administration**, including tools like **Docker**, **Incus**, **Nomad**, **Git**, **Gitea Actions**, **Ansible**, and **Bash Scripting**
+- 🛠️ Experienced in **System Monitoring**, **Backup and Recovery**, **Security and Compliance**, and **Hardware Troubleshooting**
+- 🖥️ Comfortable working across platforms and tools such as **Linux**, **macOS**, **Windows**, **Microsoft 365**, **Redmine**, **Jira**, **Windchill**, **VMware**, and **Hyper-V**
+
+---
+
+> *“Security is not a product, but a process.”* – Bruce Schneier
