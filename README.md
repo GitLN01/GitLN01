@@ -13,7 +13,7 @@
   <a href="https://www.instagram.com/zola__01/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/zola__01-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://steamcommunity.com/id/Wadihuk1234/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://dcbadge.vercel.app/api/shield/411951484675293185" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1vbwZO8Lh24DKf6c05D6xU0uDwW26AiVY/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/1e2PhkTwRjwmAqbIfViwLwlzM_sxjjOVJ/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <hr>
 <h1>
